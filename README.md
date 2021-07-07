@@ -1,16 +1,27 @@
-### Hi there 👋
+# About me
+:computer: Jr. Front-end developer
 
-<!--
-**Alessandro-Miranda/Alessandro-Miranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello World  👋
+:sparkles: I'm Alessandro Miranda and here you can find some projects I made. :sparkles:
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on OficialFarma as e-commerce assistant where do I create landing pages and create front-ends
+- :books: I'm currently learning ReactJs, SASS and TypeScript focused on Front-end development and Node.js, SQL Server focused on BI. I'm also learning other technologies like GoLang and Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+<div>
+    <a href="https://www.linkedin.com/in/alessandro-lmiranda/">
+        <img align="left" width="25px" style="border-radius: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg">
+    </a>
+    <a href="http://instagram.com/_aleh011/">
+        <img align="left" width="25px" style="border-radius: 5px; margin-left: 20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg">
+    </a>
+</div>
+
+<br />
+<br />
+
+# Git Status
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alessandro-Miranda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alessandro-Miranda&layout=compact&langs_count=10&theme=nightowl" style="margin-left: 15px;"/>
