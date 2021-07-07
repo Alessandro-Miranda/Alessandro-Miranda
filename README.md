@@ -1,5 +1,5 @@
 # Hello World  👋
-:sparkles: I'm Alessandro Miranda. :sparkles:
+:beginner: I'm Alessandro Miranda.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alessandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-miranda-b23b74169)](https://www.linkedin.com/in/alessandro-miranda-b23b74169)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/_aleh011/)](https://www.instagram.com/_aleh011/)
@@ -9,10 +9,10 @@
 - I'm currently learning:
 
 <div>
-    <img width="width: 35px" src="./images/nodejs.png" style="margin-left: 15px">
-    <img width="width: 35px" src="./images/ts.png" style="margin-left: 15px">
-    <img width="width: 120px" src="./images/docker.png" style="margin-left: 15px">
-    <img width="width: 75px" src="./images/go-logo-blue.svg" style="width: 75px; margin-left: 15px;">
+    <img width="" src="./images/nodejs.png">
+    <img src="./images/ts.png">
+    <img src="./images/docker1.png">
+    <img src="./images/go1.png">
 </div>
 
 <br />
@@ -29,17 +29,17 @@
 # Technologies and tools
 
 <div style="max-width: 400px; margin: 0 auto">
-    <img width="width: 35px" src="./images/html.png" style="margin-left: 15px">
-    <img width="width: 35px" src="./images/css.png" style="margin-left: 15px">
-    <img width="width: 45px" src="./images/sass.png" style="margin-left: 15px; margin-bottom: -5px">
-    <img width="width: 35px" src="./images/js.png" style="margin-left: 15px">
-    <img width="width: 35px" src="./images/nodejs.png" style="margin-left: 15px">
-    <img width="width: 35px" src="./images/react.png" style="margin-left: 15px">
-    <img width="width: 35px" src="./images/ts.png" style="margin-left: 15px">
-    <img width="width: 35px" src="./images/php.png" style="margin-left: 15px">
-    <img width="width: 50px" src="./images/go-logo-blue.svg" style="width: 50px; margin-left: 15px;">
-    <img width="width: 35px" src="./images/vs-code.png" style="margin-left: 15px; margin-bottom: -5px">
-    <img width="width: 45px" src="./images/mysql.png" style="margin-left: 15px;">
-    <img width="width: 120px" src="./images/docker.png" style="margin-left: 15px">
-    <img width="width: 35px" src="./images/git.png" style="margin-left: 15px">
+    <img src="./images/html.png">
+    <img src="./images/css.png">
+    <img src="./images/sass1.png">
+    <img src="./images/js.png">
+    <img src="./images/nodejs.png">
+    <img src="./images/react.png">
+    <img src="./images/ts.png">
+    <img src="./images/php1.png">
+    <img src="./images/go1.png">
+    <img src="./images/vs-code.png">
+    <img src="./images/my-sql.png">
+    <img src="./images/docker1.png">
+    <img src="./images/git.png">
 </div>
