@@ -9,10 +9,10 @@
 - I'm currently learning:
 
 <div>
-    <img src="./images/nodejs.png" style="width: 35px; margin-left: 15px">
-    <img src="./images/ts.png" style="width: 35px; margin-left: 15px">
-    <img src="./images/docker.png" style="width: 120px; margin-left: 15px">
-    <img src="./images/go-logo-blue.svg" style="width: 75px; margin-left: 15px;">
+    <img width="width: 35px" src="./images/nodejs.png" style="margin-left: 15px">
+    <img width="width: 35px" src="./images/ts.png" style="margin-left: 15px">
+    <img width="width: 120px" src="./images/docker.png" style="margin-left: 15px">
+    <img width="width: 75px" src="./images/go-logo-blue.svg" style="width: 75px; margin-left: 15px;">
 </div>
 
 <br />
@@ -29,17 +29,17 @@
 # Technologies and tools
 
 <div style="max-width: 400px; margin: 0 auto">
-    <img src="./images/html.png" style="width: 35px; margin-left: 15px">
-    <img src="./images/css.png" style="width: 35px; margin-left: 15px">
-    <img src="./images/sass.png" style="width: 45px; margin-left: 15px; margin-bottom: -5px">
-    <img src="./images/js.png" style="width: 35px; margin-left: 15px">
-    <img src="./images/nodejs.png" style="width: 35px; margin-left: 15px">
-    <img src="./images/react.png" style="width: 35px; margin-left: 15px">
-    <img src="./images/ts.png" style="width: 35px; margin-left: 15px">
-    <img src="./images/php.png" style="width: 35px; margin-left: 15px">
-    <img src="./images/go-logo-blue.svg" style="width: 50px; margin-left: 15px;">
-    <img src="./images/vs-code.png" style="width: 35px; margin-left: 15px; margin-bottom: -5px">
-    <img src="./images/mysql.png" style="width: 45px; margin-left: 15px;">
-    <img src="./images/docker.png" style="width: 120px; margin-left: 15px">
-    <img src="./images/git.png" style="width: 35px; margin-left: 15px">
+    <img width="width: 35px" src="./images/html.png" style="margin-left: 15px">
+    <img width="width: 35px" src="./images/css.png" style="margin-left: 15px">
+    <img width="width: 45px" src="./images/sass.png" style="margin-left: 15px; margin-bottom: -5px">
+    <img width="width: 35px" src="./images/js.png" style="margin-left: 15px">
+    <img width="width: 35px" src="./images/nodejs.png" style="margin-left: 15px">
+    <img width="width: 35px" src="./images/react.png" style="margin-left: 15px">
+    <img width="width: 35px" src="./images/ts.png" style="margin-left: 15px">
+    <img width="width: 35px" src="./images/php.png" style="margin-left: 15px">
+    <img width="width: 50px" src="./images/go-logo-blue.svg" style="width: 50px; margin-left: 15px;">
+    <img width="width: 35px" src="./images/vs-code.png" style="margin-left: 15px; margin-bottom: -5px">
+    <img width="width: 45px" src="./images/mysql.png" style="margin-left: 15px;">
+    <img width="width: 120px" src="./images/docker.png" style="margin-left: 15px">
+    <img width="width: 35px" src="./images/git.png" style="margin-left: 15px">
 </div>
