@@ -7,17 +7,6 @@
 - 🔭 I'm currently working on OficialFarma as e-commerce assistant where do I create landing pages and create front-ends
 - :books: I'm currently learning ReactJs, SASS and TypeScript focused on Front-end development and Node.js, SQL Server focused on BI. I'm also learning other technologies like GoLang and Docker
 
-### Connect with me:
-
-<div>
-    <a href="https://www.linkedin.com/in/alessandro-lmiranda/">
-        <img align="left" width="25px" style="border-radius: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg">
-    </a>
-    <a href="http://instagram.com/_aleh011/">
-        <img align="left" width="25px" style="border-radius: 5px; margin-left: 20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg">
-    </a>
-</div>
-
 <br />
 <br />
 
