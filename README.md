@@ -5,7 +5,7 @@
 :sparkles: I'm Alessandro Miranda and here you can find some projects I made. :sparkles:
 
 - 🔭 I'm currently working on OficialFarma as e-commerce assistant where do I create landing pages and create front-ends
-- :books: I'm currently learning ReactJs, SASS and TypeScript focused on Front-end development and Node.js, SQL Server focused on Back-end. I'm also learning other technologies like GoLang and Docker
+- :books: I'm currently learning React, SASS and TypeScript focused on Front-end development and Node.js and SQL Server focused on Back-end. I'm also learning other technologies like GoLang and Docker
 
 <br />
 
