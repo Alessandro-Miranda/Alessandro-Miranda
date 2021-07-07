@@ -1,12 +1,12 @@
 # Hello World  👋
-:beginner: I'm Alessandro Miranda.
+:beginner: I'm Alessandro. Passionate ❤️ about programming and learning. 📚
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alessandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-miranda-b23b74169)](https://www.linkedin.com/in/alessandro-miranda-b23b74169)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/_aleh011/)](https://www.instagram.com/_aleh011/)
 
 - 🔭 I'm currently working on OficialFarma as e-commerce assistant where do I create landing pages and create front-ends
 
-- I'm currently learning:
+- 💭 I'm currently learning:
 
 <div>
     <img width="" src="./images/nodejs.png">
