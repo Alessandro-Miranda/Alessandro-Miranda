@@ -28,7 +28,7 @@
 
 # Technologies and tools
 
-<div style="max-width: 400px; margin: 0 auto">
+<div>
     <img src="./images/html.png">
     <img src="./images/css.png">
     <img src="./images/sass1.png">
