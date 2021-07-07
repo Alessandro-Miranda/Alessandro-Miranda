@@ -23,7 +23,7 @@
 
 # Git Status
 
-<div style="width: 100%; height: max-content">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alessandro-Miranda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" style="width: 50%; height: 100%"/>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alessandro-Miranda&layout=compact&langs_count=10&theme=nightowl" style="margin-left: 15px; width: 50%; height: 100%"/>
-</div>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alessandro-Miranda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alessandro-Miranda&layout=compact&langs_count=10&theme=nightowl" style="margin-left: 15px;"/>
+
