@@ -1,6 +1,9 @@
 # About me
 :computer: Jr. Front-end developer
-:mortar_board: Business computer student
+:mortar_board: Business computer student at Fatec SBC
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alessandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-miranda-b23b74169)](https://www.linkedin.com/in/alessandro-miranda-b23b74169)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/_aleh011/)](https://www.instagram.com/_aleh011/)
 
 ## Hello World  👋
 :sparkles: I'm Alessandro Miranda and here you can find some projects I made. :sparkles:
