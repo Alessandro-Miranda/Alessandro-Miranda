@@ -11,8 +11,6 @@
 <div>
     <img width="" src="./images/nodejs.png">
     <img src="./images/ts.png">
-    <img src="./images/docker1.png">
-    <img src="./images/go1.png">
 </div>
 
 <br />
@@ -37,9 +35,7 @@
     <img src="./images/react.png">
     <img src="./images/ts.png">
     <img src="./images/php1.png">
-    <img src="./images/go1.png">
     <img src="./images/vs-code.png">
     <img src="./images/my-sql.png">
-    <img src="./images/docker1.png">
     <img src="./images/git.png">
 </div>
