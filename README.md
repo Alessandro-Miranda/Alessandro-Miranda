@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Alessandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-miranda-b23b74169)](https://www.linkedin.com/in/alessandro-miranda-b23b74169)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/_aleh011/)](https://www.instagram.com/_aleh011/)
 
-- 🔭 I'm currently working at OficialFarma as Programmer where I create landing pages and front-ends using mainly HTML, CSS and javascript.
+- 🔭 I'm currently working as Software Engineering Trainee at EY.
 
 - 💭 I'm currently learning:
 
